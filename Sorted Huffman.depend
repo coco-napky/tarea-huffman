@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1488675356 source:c:\users\carlos varela\downloads\sortedhuffman-master\sortedhuffman-master\test.cpp
+	"Test.h"
+
+1488229650 c:\users\carlos varela\downloads\sortedhuffman-master\sortedhuffman-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+
+1488675791 source:c:\users\carlos varela\downloads\sortedhuffman-master\sortedhuffman-master\main.cpp
+	"Test.h"
+	<iostream>
+	<cstdlib>
+
+1488849141 source:/home/napky/Documents/sites/SortedHuffman/Test.cpp
+	"Test.h"
+
+1488844564 /home/napky/Documents/sites/SortedHuffman/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+
+1488849118 source:/home/napky/Documents/sites/SortedHuffman/main.cpp
+	"Test.h"
+	<iostream>
+	<cstdlib>
+
